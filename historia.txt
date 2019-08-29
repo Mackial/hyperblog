@@ -1,5 +1,6 @@
 Datos Generales
-    Nonbre: Jose Marcial
-    Nacio:
-    Donde vive: El Grullo
+    Nonbre: Jose Marcial 
+    Apellidos: Ambriz Gomez
+    Nacio: 26 de Junio del 1996
+    Donde vive: Autlan de Navarro
     Edad: 23
