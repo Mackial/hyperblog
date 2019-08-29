@@ -4,3 +4,7 @@ Datos Generales
     Nacio: 26 de Junio del 1996
     Donde vive: Autlan de Navarro
     Edad: 23
+
+Historia
+    Marcial es un joven de 23 años, recientemente termino de estudiar una carrera universitaria, en el CUCEA
+    Actualmente se dedica a estudiar en platzi cursos referntes a su carrera
