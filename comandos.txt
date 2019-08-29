@@ -1,0 +1,24 @@
+Comandos para git:
+
+    git init :  Inicializar repositorio para el control de versiones
+
+    git add "Nombre del archivo" / . / * : agregamos los archivos nuevos y modificados al stage area
+
+    git commit -m "Descripcion de la actualizacion del estado de los archivos en el repositorio" : Registro de las modificaciones
+
+    git status : Se mostrara el estado de los archivos en el repositorio, si no han sido agregados, o si no se han hecho commits para el Registro
+
+    git log : Mostrara el registro de todos los commits que se han hecho
+    git log "Nombre del archivo" : mostrara solo el registro de los commits que se han hecho sobre este archivo
+
+    git log --stat : Mostrara a detalle los commits de las modificaciones que se hicieron
+
+    git reset "Direccion del commit" --hard : Elimina los commits posteriores al commit al que estas haciendo reset, deshace los cambios en el stage area y deshace los cambios que tengas en tus archivos
+    git reset "Direccion del commit" --soft : Elimina los commits posteriores al commit al que estas haciendo reset, conserva los cambios en el stage area y conserva los cambios que tengas en tus archivos
+    git reset "Direccion del commit" --mixed : Elimina los commits posteriores al commit al que estas haciendo reset, deshace los cambios en el stage area y conserva los cambios que tengas en tus archivos
+
+    git diff "Direccion de commit A" "Direccion de commit B" "Nombre del archivo" : Compara los commits de diferentes tiempos y muestra los cambios que hay entre los Descripcion
+
+    git show : Muestra los cambios que se hicieron en el ultimo commit
+
+    
