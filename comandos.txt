@@ -4,7 +4,7 @@ Comandos para git:
 
     git add "Nombre del archivo" / . / * : agregamos los archivos nuevos y modificados al stage area
 
-    git commit -m "Descripcion de la actualizacion del estado de los archivos en el repositorio" : Registro de las modificaciones
+    git commit -m "Descripcion de la actualizacion del estado de los archivos en el repositorio" : Registro de las modificaciones que son mandados a la base de datos de cambios historicos
 
     git status : Se mostrara el estado de los archivos en el repositorio, si no han sido agregados, o si no se han hecho commits para el Registro
 
