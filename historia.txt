@@ -6,5 +6,6 @@ Datos Generales
     Edad: 23
 
 Historia
-    Marcial es un joven de 23 años, recientemente termino de estudiar una carrera universitaria, en el CUCEA
-    Actualmente se dedica a estudiar en platzi cursos referntes a su carrera
+    Marcial es un joven de 23 años, recientemente termino de estudiar una carrera universitaria, en el CUCSUR estudio la carrera de Ingenieria en Teleinformatica
+    Actualmente se dedica a estudiar en platzi cursos referntes a su carrera, curos como: control de versiones con git y github, programacion basica, desarrollo web
+    
