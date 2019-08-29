@@ -21,4 +21,5 @@ Comandos para git:
 
     git show : Muestra los cambios que se hicieron en el ultimo commit
 
-    
+    git checkout "Direccion del commit" "Nombre del archivo" : Nos permite regresar los cambios en el tiempo, nos lleva a un commit en el tiempo en especifico
+    git checkout master "Nombre del archivo" : Regresamos a la ultima version o commit del archivo
