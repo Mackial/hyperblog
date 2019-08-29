@@ -1,5 +1,5 @@
 Datos Generales
-    Nonbre: Jose Marcial 
+    Nombre: Jose Marcial 
     Apellidos: Ambriz Gomez
     Nacio: 26 de Junio del 1996
     Donde vive: Autlan de Navarro
