@@ -33,3 +33,9 @@ Comandos para git:
     git merge : Actualiza los archivos del directorio local con los cambios que se hicieron en el repositorio remoto
 
     git pull : Actualiza la base de datos de cambios y los cambios en los archivos
+
+Configuracion de Git para el registro del Autor que hace los cambios
+
+    git config --global user.name "Nombre del Autor" : Configura el nombre del autor
+
+    git config --global user.email "Correo electronico" : Configura el correo del autor
