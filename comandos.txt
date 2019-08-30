@@ -23,3 +23,13 @@ Comandos para git:
 
     git checkout "Direccion del commit" "Nombre del archivo" : Nos permite regresar los cambios en el tiempo, nos lleva a un commit en el tiempo en especifico
     git checkout master "Nombre del archivo" : Regresamos a la ultima version o commit del archivo
+
+    git clone "url" : Hace una copia del repositorio remoto en tu computadora
+
+    git push : Manda al repositorio remoto la ultima version que hiciste en el repositorio local
+
+    git fetch : Actualiza el registro de los commits del repositorio local que se hicieron en el repositorio remoto pero no se actualizan los archivos en el directorio
+
+    git merge : Actualiza los archivos del directorio local con los cambios que se hicieron en el repositorio remoto
+
+    git pull : Actualiza la base de datos de cambios y los cambios en los archivos
