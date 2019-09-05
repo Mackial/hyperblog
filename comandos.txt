@@ -23,6 +23,7 @@ Comandos para git:
 
     git checkout "Direccion del commit" "Nombre del archivo" : Nos permite regresar los cambios en el tiempo, nos lleva a un commit en el tiempo en especifico
     git checkout master "Nombre del archivo" : Regresamos a la ultima version o commit del archivo
+    git ckeckout "nombre de la rama" : Nos permite movernos a la rama indicada en cual vamos a trabajar
 
     git clone "url" : Hace una copia del repositorio remoto en tu computadora
 
