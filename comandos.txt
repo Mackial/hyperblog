@@ -34,6 +34,8 @@ Comandos para git:
 
     git pull : Actualiza la base de datos de cambios y los cambios en los archivos
 
+    git branch "Nombre de la nueva rama" : Creamos una nueva rama independiente de la rama master para trabajar sin afectar en los cambios a la ramama maestra 
+
 Configuracion de Git para el registro del Autor que hace los cambios
 
     git config --global user.name "Nombre del Autor" : Configura el nombre del autor
