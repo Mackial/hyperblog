@@ -42,3 +42,14 @@ Configuracion de Git para el registro del Autor que hace los cambios
     git config --global user.name "Nombre del Autor" : Configura el nombre del autor
 
     git config --global user.email "Correo electronico" : Configura el correo del autor
+
+Conexion repositorio remoto
+    git pull origin master : Traer cambios del repositorio remoto al local
+
+    git pull --allow-unrelated-histories : Permite fucionar los archivos del repositorio local con el remoto
+
+    git push origin master : Enviar rama master a repositorio en la nube, ingresar datos de logueo para registrar los commits
+
+    git push origin master --allow
+
+    git remote add origin "url del repositorio rn la nuve"
