@@ -55,4 +55,25 @@ Conexion repositorio remoto
     git remote add origin "url del repositorio rn la nuve"
 
     git remote set-url "URL que se ingresara para cambiar" : Configuramos la forma en que la conexion remota al repositorio se hace via https o ssh
+
+Cosas bonias u.u
+
+    git log --all --graph --decorate --oneline : Muestra la historia y grafica las ramas de forma visual para ver el curso que a tomado el repositorio
+
+Etiquetas para los comandos largos
+
+    alias "etiqueta"=(Entre comillas)"Comando que deseamos hacerlo en una simple palabra para hacer mas eficiente la ejecucion" : Las alias o etiquetas en los comandos, nos ayuda hacer mas rapido y eficiente la manera de ejecutar los comando si estos son muy largos para poder escribirlos, simplemente podremos ejecutar un alias que refiera a este comando antes configurado con la etiqueta
+
+    git tag -a "etiqueta" -m "Descripcion de la etiqueta" "hash del commit donde se posicionara" : Las etiquetas sirven para marcar partes del proyecto y definir puntos importantes como las versiones
+
+    git push "repositorio remoto" --tags : Enviamos las etiquetas creadas al repositorio remoto
+
+    git tag : muestra todas la etiqueta existentes en el proyecto
+
+    git tag -d "nombre de la etiqueta" : Borramos la etiqueta especificada, de esta manera solo se borra en el repositorio local
+
+    git push origin :refs/tags/"nombre de la etiqueta" : De esta manera borramos la etiqueta en el repositorio remoto previamente borrado de manera local
+
     
+
+
