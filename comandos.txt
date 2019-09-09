@@ -37,6 +37,8 @@ Comandos para git:
 
     git branch "Nombre de la nueva rama" : Creamos una nueva rama independiente de la rama master para trabajar sin afectar en los cambios a la ramama maestra 
 
+    git show-branch --all : Muesta todas las ramas existentes 
+
 Configuracion de Git para el registro del Autor que hace los cambios
 
     git config --global user.name "Nombre del Autor" : Configura el nombre del autor
@@ -74,6 +76,6 @@ Etiquetas para los comandos largos
 
     git push origin :refs/tags/"nombre de la etiqueta" : De esta manera borramos la etiqueta en el repositorio remoto previamente borrado de manera local
 
-    
+
 
 
