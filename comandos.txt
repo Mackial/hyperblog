@@ -76,6 +76,8 @@ Etiquetas para los comandos largos
 
     git push origin :refs/tags/"nombre de la etiqueta" : De esta manera borramos la etiqueta en el repositorio remoto previamente borrado de manera local
 
+Utilizar GitHub como servidor con pages
+
 
 
 
