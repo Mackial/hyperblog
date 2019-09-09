@@ -39,6 +39,14 @@ Comandos para git:
 
     git show-branch --all : Muesta todas las ramas existentes 
 
+    git stash : Cuando olvidaste de cambiar de rama para hacer cambios, con este comando puedes guardar los cambios en memoria y regresas la rama en la que estas regresa al commit mas actual, para poder cambiar de rama y asi hacer el commit en la rama correcta
+
+    git stash list :  muestra los cambios que tienes en memoria para ser guardados en lo que cambias de rama
+
+    git stash pop : Con este comando regresamos los cambios que colocamos en memoria mientras cambiabamos a la rama adecuada
+
+    git stash branch "nombre de la nueva rama" : Podras crear una rama nueva con los cambios que no quieres que se guarden en cierta rama en la que estas y simplemente crear una nueva y colocar los cambios sobre la misma
+
 Configuracion de Git para el registro del Autor que hace los cambios
 
     git config --global user.name "Nombre del Autor" : Configura el nombre del autor
@@ -76,7 +84,11 @@ Etiquetas para los comandos largos
 
     git push origin :refs/tags/"nombre de la etiqueta" : De esta manera borramos la etiqueta en el repositorio remoto previamente borrado de manera local
 
+
+
 Utilizar GitHub como servidor con pages
+
+
 
 
 
