@@ -53,3 +53,6 @@ Conexion repositorio remoto
     git push origin master --allow
 
     git remote add origin "url del repositorio rn la nuve"
+
+    git remote set-url "URL que se ingresara para cambiar" : Configuramos la forma en que la conexion remota al repositorio se hace via https o ssh
+    
